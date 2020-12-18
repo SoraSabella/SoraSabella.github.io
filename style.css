@@ -1,0 +1,363 @@
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+    color: rgb(24, 57, 70);
+    font-weight: 900;
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+}
+
+img {
+   width: 80px;
+   height: 80px;
+   padding-left: 1550px;
+   margin-top: -10px;
+   position: absolute;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(224, 224, 182);
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    margin: 50px;
+    text-align: left;
+    font-weight: bold;
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Arvo', serif;
+}
+
+/* ..................Ini bagian Warna 1 - Warna 6 .....................*/
+
+#warna1{
+   background-color: #a80826;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna2{
+   background-color:#993c6f;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna3{
+   background-color:#d683b0;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna4{
+   background-color: #e85689;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: black;
+}
+
+#warna5{
+   background-color:#ffd9e6;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color:black;
+}
+
+#warna6{
+   background-color:#f9bdff;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color:black;
+}
+
+/* ..................Ini bagian Warna 7 - Warna 12 .....................*/
+
+#warna7{
+    background-color: #f5edc4;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color:black;
+ }
+ 
+ #warna8{
+    background-color: #f7d9a1;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color:black;
+ }
+ 
+ #warna9{
+    background-color:#f7e76d;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: balck;
+ }
+ 
+ #warna10{
+    background-color: #f0cd22;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+ 
+ #warna11{
+    background-color:#f7ac20;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+ 
+ #warna12{
+    background-color:#99590b;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+
+ /* ..................Ini bagian Warna 13 - Warna 18 .....................*/
+
+#warna13{
+   background-color: #48664c;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna14{
+   background-color:#477a5c;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna15{
+   background-color:#1c943e;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: white;
+}
+
+#warna16{
+   background-color: #66c481;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: black;
+}
+
+#warna17{
+   background-color:#ccf0d6;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: black;
+}
+
+#warna18{
+   background-color:#d0d9d2;
+   width: 120px;
+   height: 120px;
+   border: 6px solid black;
+   font-weight: bolder;
+   margin: 30px;
+   color: black;
+}
+
+/* ..................Ini bagian Warna 19 - Warna 24 .....................*/
+
+#warna19{
+    background-color: #ceeded;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: black;
+ }
+ 
+ #warna20{
+    background-color:#5fb0b0;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: black;
+ }
+ 
+ #warna21{
+    background-color: #20c9c9;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: black;
+ }
+ 
+ #warna22{
+    background-color: #2a68d4;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+ 
+ #warna23{
+    background-color:#19386e;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+ 
+ #warna24{
+    background-color:#454c59;
+    width: 120px;
+    height: 120px;
+    border: 6px solid black;
+    font-weight: bolder;
+    margin: 30px;
+    color: white;
+ }
+
+
+/* ..................Ini bagian Random Warna .....................*/
+
+#random1{
+   background-color: white;
+   width: 150px;
+   height: 150px;
+   border: 6px solid black;
+   font-size: 15px;
+   font-weight: bolder;
+   margin: 30px;
+}
+
+#random2{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 6px solid black;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 30px;
+ }
+
+ #random3{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 6px solid black;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 30px;
+ }
+
+ #random4{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 6px solid black;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 30px;
+ }
+
+ #random5{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 6px solid black;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 30px;
+ }
+
+ #random6{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border: 6px solid black;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 30px;
+ }
+
+ footer {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(24, 57, 70);
+    color: white;
+    font-size: 22px;
+    padding-top: 12px;
+    font-weight: 600;
+    border: 1px solid white;
+ }
